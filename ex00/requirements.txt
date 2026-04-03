@@ -2,4 +2,5 @@ numpy
 pandas
 plotly
 jupyter
+tabulate
 
