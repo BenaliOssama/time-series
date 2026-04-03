@@ -1,0 +1,14 @@
+# Virtual environment - ignore everything inside ex00
+ex00/*
+
+# Except our actual work
+!ex00/*.ipynb
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+data/
